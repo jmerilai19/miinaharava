@@ -5,3 +5,5 @@ This project was my course work for Elementary Programming in the University of 
 This project is a simple minesweeper game made in Python.
 
 ![](readme_screenshot.png)
+
+Note: The code is in Finnish
